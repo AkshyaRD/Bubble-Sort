@@ -3,7 +3,7 @@ void Bubblesort(int [],int);
 
 int main()
 {
-	int arr[5]={32,5,7,56,78};
+	int arr[5]={-2,45,0,11,-9};
 	printf("the sorted list is:\n");
     Bubblesort(arr,5);
     return 0;
